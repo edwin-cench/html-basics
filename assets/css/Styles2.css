@@ -1,0 +1,40 @@
+.fruits{
+    border: solid 3px blue;
+    text-align: center;
+    background-color: aqua;
+    margin: 20px;
+    padding: 20px;
+    font-family: "Century Schoolbook L";
+    }
+.cars{
+    border: dashed 2px red;
+    text-align: center;
+    background-color: #21bd21;
+    font-family: "Roboto Light";
+    margin: 20px;
+    padding: 20px;
+}
+.FRUITS{
+    border: double 3px gold;
+    text-align: center;
+    background-color: #1489ef;
+    font-family: "DejaVu Serif";
+    margin: 20px;
+    padding: 20px;
+}
+#computers{
+    border: solid 4px black;
+    text-align: center;
+    background-color: aliceblue;
+    font-family: "Fira Code Medium";
+    margin: 20px;
+    padding:20px;
+}
+#manchester{
+    border: double 3px gold;
+    text-align: center;
+    background-color: #1489ef;
+    font-family: "DejaVu Serif";
+    margin: 20px;
+    padding: 20px;
+}

@@ -1,0 +1,25 @@
+table{
+    width: 100%;
+    font-family:"DejaVuSans";
+    border-collapse: collapse;
+}
+td,th {
+    border: 2px solid #f30606;
+    padding: 10px;
+}
+th{
+    color: gold;
+}
+td{
+    color: #a603f8;
+}
+body{
+    background-image:url("../images/emobilis_logo.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+h2{
+    color: gold;
+}
